@@ -1,4 +1,4 @@
-<img width="1910" height="853" alt="Screenshot 2025-08-13 124203" src="https://github.com/user-attachments/assets/5f84ea32-1ad7-49f9-9503-a3a5cd6cec3e" /># BookShelf 📚
+BookShelf 📚
 
 A simple PHP & MySQL web app to manage your book collection.  
 Add, view, edit, and delete books with a clean interface.
@@ -98,4 +98,4 @@ MIT License
 
 ## Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Fardaus Taohyd]
